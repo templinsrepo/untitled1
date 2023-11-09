@@ -6,4 +6,4 @@ class Smartphone:
         self.phone_number = phone_number
 
 phone = Smartphone("Iphone", "14", "+79999999999")
-print(phone.brand + " - " + phone.model + " - " + phone.phone_number )
+#print(phone.brand + " - " + phone.model + " - " + phone.phone_number )
